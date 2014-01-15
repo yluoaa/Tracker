@@ -1,0 +1,2 @@
+make
+./Tracker -v capture.avi
